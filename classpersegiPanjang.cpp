@@ -1,5 +1,5 @@
 
-            void hitungLuas(){
-                luas = panjang * lebar;
-
+            
+            void outputData(){
+                cout << "tampilkan luas= " << luas << endl;
             }
