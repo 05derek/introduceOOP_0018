@@ -1,14 +1,5 @@
 
-class LuaspersegiPanjang{
-    private:
-        int panjang;
-        int lebar;
-        int luas;
+            void hitungLuas(){
+                luas = panjang * lebar;
 
-        public:
-            void inputData(){
-                cout << "masukkan panjang= ";
-                cin >> panjang;
-                cout << "masukkan lebar= ";
-                cin >> lebar;
-  
+            }
